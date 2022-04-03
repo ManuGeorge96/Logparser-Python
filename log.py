@@ -1,4 +1,4 @@
-import parser
+import logparser
 file = open('access.log','r')
 frequency = {}
 for line in file:
